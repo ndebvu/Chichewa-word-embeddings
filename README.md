@@ -2,16 +2,16 @@
 
 
 <h2>Description</h2>
-This project is part of the my ongoing PhD work.The primary objective of this work was to generate word embeddings for the Chichewa language that can be used in various NLP applications, including part of speech tagging, named entity recognition, and TTS systems.I intent to use the word emmebdings for fine-tuning SpeechT5 model for Chichewa text systhesis. Since Chichewa has complex morphology, meaning words change form depending on tense, aspect, and subject,Pretrained embeddings (like Word2Vec, FastText, or BERT) for Chichewa may be limited or non-existent, making it necessary to train custom embeddings from scratch.Custom embeddings can better capture linguistic features, improving pronunciation and intonation in TTS output.We used the FastText model to train word embedding on 1,884,405 Chichewa words from scratch.
+This project is part of the my ongoing PhD work.The primary objective of this work was to generate word embeddings for the Chichewa language that can be used in various NLP applications, including part of speech tagging, named entity recognition, and TTS systems.I intent to use the word emmebdings for fine-tuning SpeechT5 model for Chichewa text systhesis. Since Chichewa has complex morphology, meaning words change form depending on tense, aspect, and subject,Pretrained embeddings (like Word2Vec, FastText, or BERT) for Chichewa may be limited or non-existent, making it necessary to train custom embeddings from scratch.Custom embeddings can better capture linguistic features, improving pronunciation and intonation in TTS output.We used the FastText model to train word embedding on 1,884,405 Chichewa words from scratch.Th courpus used in this project is avaialble upon request, and will be made publicly availble after the thesis is defended.
 <br />
 
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>Dart</b> 
-- <b>Flutter</b>
+- <b>Python</b> 
+- <b>Fasttex library</b>
 -<b>PHP</b>
--<b>Mysql</b>
+
 
 <h2>Environments Used </h2>
 
