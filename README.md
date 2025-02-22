@@ -10,9 +10,7 @@ This project is part of the my ongoing PhD work.The primary objective of this wo
 
 - <b>Python</b> 
 - <b>Fasttex library</b>
--<b>PHP</b>
-
-
+  
 <h2>Environments Used </h2>
 
 - <b>Windows 11</b> (21H2)
